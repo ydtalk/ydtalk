@@ -24,20 +24,12 @@ Here are some ideas to get you started:
 
   我开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。
 
-💪 正在学习
-
-   C C# Python Java MySQL HTML5 CSS3 JavaScript
-
-🧠 计划学习
-
-   C++ R TypeScript Nodejs Qt jQuery Docker Shell Script
 
 🧰 常用的工具
 
    Windows Linux Android Google Chrome Edge Visual Studio Code Git GitHub
 
-        
+       
 
-        
 
 html css VSCode python javascript sublime github node
