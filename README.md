@@ -87,7 +87,7 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 <!-- 3D 代码贡献图 profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN@contrib/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/ydtalk@contrib/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 <h1 align="center">🚀 Actions </h1>
 
