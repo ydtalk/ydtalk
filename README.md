@@ -239,13 +239,6 @@ Window                   13 hrs 29 mins      ███████████�
 <!-- just img 图片 -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/ydtalk/ydtalk/assets/images/githubgif.gif" />
 
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/ydtalk/ydtalk/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
