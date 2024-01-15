@@ -59,7 +59,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/ydtalk/ydtalk/assets/images/tuhui.png" />
 
-- [深蓝科技（唐山）股份有限公司](https://www.tuhuimap.com/) &emsp; 📌 2019-11-04 —— Now
+- [深蓝科技（唐山）股份有限公司](https://www.qasl.cn/) &emsp; 📌 2019-11-04 —— Now
   
   - 工作岗位：后端端开发工程师
 </td></tr>
