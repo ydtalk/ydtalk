@@ -240,8 +240,6 @@ Window                   13 hrs 29 mins      ███████████�
 <img width="36%" src="https://cdn.jsdelivr.net/gh/ydtalk/ydtalk/assets/images/githubgif.gif" />
 
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
-
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/ydtalk/ydtalk/assets/images/icon.png" /></div>
 </div>
