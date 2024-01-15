@@ -47,27 +47,18 @@
 </div>
 
 <!-- 编程工具图标 programming tool icon -->
-<div align="center">
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/kotlin.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/android.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/java.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/c++.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/c.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/css.webp"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/javascript.png"></code>
-
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/express.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/git.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/gh.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/firebase.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jupyter.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/atom.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/bootstrap.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/angular.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/ubuntu.png"></code>
-</div>
+<!-- svg -->
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- Gif -->
 <div align="center">
