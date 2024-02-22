@@ -54,18 +54,6 @@
 </td></tr>
 
 <tr><td>
-  
-### 🏢 Work Experience
-
-<img align="right" width="88" src="" />
-
-- [深蓝科技（唐山）股份有限公司](https://www.qasl.cn/) &emsp; 📌 2019-11-04 —— Now
-  
-  - 工作岗位：后端端开发工程师
-</td></tr>
-
-
-<tr><td>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
